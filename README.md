@@ -1,26 +1,17 @@
-<!-- ## Hi there 👋
--->
 <img src=images/readme.png>
+I'm final year student of Data Science Bachelor's degree at Vilnius University. 
 
+- 📝 I am interested in topics related to:
+  - Parametric and Non-Parametric Statistics
+  - Regression Analysis
+  - Financial Intelligence
+  - AI and Deep Learning
+  - Natural Language Processing
 
-
-<!-- 
-**evelinavait/evelinavait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖱️ Tech Stack: R, Python, SAS (Programming Languages), SQL, NoSQL
 
 <details>
-  <summary>Some other facts about me</summary>
+  <summary>GitHub Profile Stats</summary>
   <br>
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=evelinavait&show_icons=true&theme=nord)
@@ -38,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center" height="300px">
   <a href="https://github.com/evelinavait">
-    <img src="https://komarev.com/ghpvc/?username=evelinavait" />
+    <img src="https://komarev.com/ghpvc/?username=evelinavait&color=685A94" />
   </a>
 </p>
 
