@@ -25,6 +25,11 @@ I'm a final year student of Data Science Bachelor's degree at Vilnius University
   <p align="center">
     <a href="https://lt.linkedin.com/in/evelina-vaitkevičiūtė" alt="Linkedin"><img src="images/linkedin-fill.svg"></a>
     <a href="mailto:e.vaitkeviciute1@gmail.com" alt="Contact me"><img src="images/mail-fill.svg"></a>
+    <a href="https://orcid.org/0000-0003-2525-1597" alt="ORCID">
+      <img src="images/orcid.png"
+           width="25" 
+           height="25">
+    </a>
   </p>
 
 <p align="center" height="300px">
