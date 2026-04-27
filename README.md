@@ -1,5 +1,5 @@
 <img src=images/readme.png>
-I'm a final year student of Data Science Bachelor's degree at Vilnius University. 
+I'm a student in the Master’s program in Data Science at Vilnius University.
 
 - 📝 I am interested in topics related to:
   - Parametric and Non-Parametric Statistics
